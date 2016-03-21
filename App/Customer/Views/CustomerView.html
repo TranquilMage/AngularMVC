@@ -1,0 +1,20 @@
+﻿<h3>Customer Details</h3>
+<div ng-show="flags.shownFromList == true">Came from customer list</div>
+<div ng-show="flags.shownFromList == false">Came from direct edit</div>
+<div>
+    <a href="#" ng-click="refreshCustomer(customer.CustomerId)"><span class="glyphicon glyphicon-refresh"></span></a>
+</div>
+<div>
+    <p class="input-group">
+        <span class="input-group-addon" style="width: 160px; text-align: left">First Name</span>
+        <input type="text" class="form-control" ng-model="customer.FirstName" />
+    </p>
+    <p class="input-group">
+        <span class="input-group-addon" style="width: 160px; text-align: left">Last Name</span>
+        <input type="text" class="form-control" ng-model="customer.LastName" />
+    </p>
+    <p class="input-group">
+        <span class="input-group-addon" style="width: 160px; text-align: left">Email</span>
+        <input type="text" class="form-control" ng-model="customer.Email" />
+    </p>
+</div>

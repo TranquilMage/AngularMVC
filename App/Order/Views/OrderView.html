@@ -1,0 +1,43 @@
+﻿<h3>Order Details</h3>
+<div ng-show="flags.shownFromList == true">Came from order list</div>
+<div ng-show="flags.shownFromList == false">Came from direct edit</div>
+<div>
+    <a href="#" ng-click="refreshOrder(order.OrderId)"><span class="glyphicon glyphicon-refresh"></span></a>
+</div>
+<div>
+    <p class="input-group">
+        <span class="input-group-addon" style="width: 160px; text-align: left">Order Number</span>
+        <input type="text" class="form-control" ng-model="order.OrderNumber" />
+    </p>
+    <p class="input-group">
+        <span class="input-group-addon" style="width: 160px; text-align: left">Customer</span>
+        <input type="text" class="form-control" ng-model="order.Customer.FirstName" />
+        <input type="text" class="form-control" ng-model="order.Customer.LastName" />
+    </p>
+    <p class="input-group">
+        <span class="input-group-addon" style="width: 160px; text-align: left">Order Date</span>
+        <input type="text" class="form-control" ng-model="order.OrderDate" />
+    </p>
+</div>
+<br />
+<div>
+    <div><b>Order Line Items</b></div>
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+            </tr>
+        </thead>
+        <tbody ng-repeat="d in order.OrderDetails">
+            <tr>
+                <td><a href="#" ng-click="showOrderDetail(order.OrderId, d)">show</a></td>
+                <td>{{ d.Product.Description }}</td>
+                <td>{{ d.Quantity }}</td>
+                <td>{{ d.UnitPrice | currency }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

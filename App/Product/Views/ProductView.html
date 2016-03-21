@@ -1,0 +1,16 @@
+﻿<h3>Product Details</h3>
+<div ng-show="flags.shownFromList == true">Came from product list</div>
+<div ng-show="flags.shownFromList == false">Came from direct edit</div>
+<div>
+    <a href="#" ng-click="refreshProduct(product.ProductId)"><span class="glyphicon glyphicon-refresh"></span></a>
+</div>
+<div>
+    <p class="input-group">
+        <span class="input-group-addon" style="width: 160px; text-align: left">Description</span>
+        <input type="text" class="form-control" ng-model="product.Description" />
+    </p>
+    <p class="input-group">
+        <span class="input-group-addon" style="width: 160px; text-align: left">Unit Price</span>
+        <input type="text" class="form-control" ng-model="product.UnitPrice" />
+    </p>
+</div>
