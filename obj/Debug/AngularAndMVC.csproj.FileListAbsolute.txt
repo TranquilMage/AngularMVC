@@ -1,0 +1,66 @@
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\AngularAndMVC.dll.config
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\AngularAndMVC.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\AngularAndMVC.pdb
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\Antlr3.Runtime.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\Newtonsoft.Json.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Net.Http.Formatting.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Helpers.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Http.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Http.WebHost.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Mvc.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Optimization.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Razor.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.WebPages.Deployment.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.WebPages.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.WebPages.Razor.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\WebGrease.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Helpers.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Mvc.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Optimization.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Razor.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.WebPages.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.WebPages.Deployment.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.WebPages.Razor.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\Antlr3.Runtime.pdb
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\Newtonsoft.Json.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Net.Http.Formatting.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Http.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\bin\System.Web.Http.WebHost.xml
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\obj\Debug\AngularAndMVC.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\obj\Debug\AngularAndMVC.dll
+F:\Presentations\Conferences\DevConnections\2015-Las Vegas\AngularJS and MVC Playing Nice\Source\AngularAndMVC\obj\Debug\AngularAndMVC.pdb
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\AngularAndMVC.dll.config
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\AngularAndMVC.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\AngularAndMVC.pdb
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\Antlr3.Runtime.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\Newtonsoft.Json.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Net.Http.Formatting.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Helpers.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Http.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Http.WebHost.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Mvc.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Optimization.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Razor.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.WebPages.Deployment.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.WebPages.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.WebPages.Razor.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\WebGrease.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Helpers.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Mvc.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Optimization.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Razor.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.WebPages.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.WebPages.Deployment.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.WebPages.Razor.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\Antlr3.Runtime.pdb
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\Newtonsoft.Json.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Net.Http.Formatting.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Http.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\bin\System.Web.Http.WebHost.xml
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\obj\Debug\AngularAndMVC.csprojResolveAssemblyReference.cache
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\obj\Debug\AngularAndMVC.dll
+F:\Publications\CoDe Magazine\Integrating ASP.NET MVC & Angular JS\Source\AngularAndMVC\obj\Debug\AngularAndMVC.pdb
+C:\Users\Administrator\Desktop\AngularAndMVC\obj\Debug\AngularAndMVC.dll
+C:\Users\Administrator\Desktop\AngularAndMVC\obj\Debug\AngularAndMVC.pdb
