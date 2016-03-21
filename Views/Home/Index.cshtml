@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Integrating ASP.NET MVC and AngularJS";
+}
+<div data-ng-controller ="indexViewModel">
+    <div class="jumbotron">
+        <h1>{{ topic }}</h1>
+        <h2>Author: <b>{{ author }}</b></h2>
+        <p class="lead">This site brings together two great platforms for web development.</p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <p>AngularJS is the leading JavaScript-based client framework for web development.</p>
+            <p>ASP.NET MVC remains Microsoft's prefered web development framework and HTML delivery platform</p>
+            <p>
+                When combined, these two platforms can build rich web applications while maintaning great code manageability
+                as well as offer great server-side support.
+            </p>
+        </div>
+    </div>
+</div>

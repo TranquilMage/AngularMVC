@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Orders";
+}
+@section scripts {
+    <script src="~/App/Order/App.js"></script>
+    <script src="~/App/Order/ViewModels/RootViewModel.js"></script>
+    <script src="~/App/Order/ViewModels/OrderHomeViewModel.js"></script>
+    <script src="~/App/Order/ViewModels/OrderListViewModel.js"></script>
+    <script src="~/App/Order/ViewModels/OrderViewModel.js"></script>
+    <script src="~/App/Order/ViewModels/OrderDetailViewModel.js"></script>
+}
+@section jsCode {
+    angular.bootstrap(document.getElementById("order"), ['order']);
+}
+
+<div ng-non-bindable>
+    <div id="order" data-ng-controller="rootViewModel">
+        <h2>{{ pageHeading }}</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <button class="btn btn-primary" ng-click="orderList()">Order List</button>
+            </div>
+            <div class="col-md-4">
+                <button class="btn btn-primary" ng-click="showOrder()">Order</button>&nbsp;
+                <input type="text" ng-model="orderService.orderId" />
+            </div>
+        </div>
+        <hr />
+        <div ng-view></div>
+        <hr />
+        <div>
+            <a href="#" ng-click="viewModelHelper.refreshPage('customer')">Customers</a><!-- note: NOT navigateTo -->
+            &nbsp;|&nbsp;
+            <a href="#" ng-click="viewModelHelper.refreshPage('product')">Products</a>
+            &nbsp;|&nbsp;
+            <a href="#" ng-click="viewModelHelper.refreshPage('order')">Orders</a>
+            &nbsp;|&nbsp;
+        </div>
+    </div>
+</div>

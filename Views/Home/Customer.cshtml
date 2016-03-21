@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Customers";
+}
+@section scripts {
+    <script src="~/App/Customer/App.js"></script>
+    <script src="~/App/Customer/ViewModels/RootViewModel.js"></script>
+    <script src="~/App/Customer/ViewModels/CustomerHomeViewModel.js"></script>
+    <script src="~/App/Customer/ViewModels/CustomerListViewModel.js"></script>
+    <script src="~/App/Customer/ViewModels/CustomerViewModel.js"></script>
+}
+@section jsCode {
+    angular.bootstrap(document.getElementById("customer"), ['customer']);
+}
+
+<div ng-non-bindable>
+    <div id="customer" data-ng-controller="rootViewModel">
+        <h2>{{ pageHeading }}</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <button class="btn btn-primary" 
+                        ng-click="customerList()">
+                    Customer List
+                </button>
+            </div>
+            <div class="col-md-4">
+                <button class="btn btn-primary" 
+                        ng-click="showCustomer()">
+                    Customer
+                </button>&nbsp;
+                <input type="text"
+                        ng-model="customerService.customerId" />
+            </div>
+        </div>
+        <hr />
+        <div ng-view></div>
+        <hr />
+        <div>
+            <a href="/product" target="_self">Products</a>
+            &nbsp;|&nbsp;
+            <a href="/order" target="_self">Orders</a>
+        </div>
+    </div>
+</div>
